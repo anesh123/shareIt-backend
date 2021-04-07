@@ -1,4 +1,4 @@
-# Photo Album application backend
+# ShareIt backend
 
 REST APIs: Java Spring-Boot<br>
 Swagger2: API Documentation<br>
